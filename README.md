@@ -1,0 +1,13 @@
+# etab5-user 4.4.2 KOT49H ETAB5-01.03.09 release-keys
+- manufacturer: general mobile
+- platform: 
+- codename: etab5
+- flavor: user
+- release: 4.4.2
+- id: KOT49H
+- incremental: ETAB5-01.03.09
+- tags: release-keys
+- fingerprint: GeneralMobile/etab5/etab5:4.4.2/KOT49H/1433903566:user/release-keys
+- brand: GeneralMobile
+- branch: etab5-user-4.4.2-KOT49H-ETAB5-01.03.09-release-keys
+- repo: generalmobile_etab5_dump
