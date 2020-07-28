@@ -1,0 +1,15 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+kernel_size=4662272
+ramdisk_size=827667
+base_addr=0x10000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+cmd_line=''
+board="ETAB5-01.03.09"
+ramdisk has a MTK header:
+	partition_size=827155
+	partition_name=ROOTFS
+format=gzip
